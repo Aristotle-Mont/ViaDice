@@ -92,7 +92,7 @@ We may share **anonymized, aggregated insights** with:
 5. **Contact Us**: Ask questions about your privacy
 
 ### How to Delete Your Account:
-1. Contact us at: privacy@viadiceapp.com
+1. Contact us at: viadiceapp@gmail.com
 2. We'll delete your account and all associated data within 30 days
 
 ---
@@ -192,10 +192,10 @@ Contact us to exercise these rights.
 
 If you have questions about this Privacy Policy or your data:
 
-**Email**: privacy@viadiceapp.com
+**Email**: viadiceapp@gmail.com
 **Response Time**: Within 48 hours
 
-For general support: support@viadiceapp.com
+For general support: viadiceapp@gmail.com
 
 ---
 
